@@ -1,1 +1,2 @@
-hello world！This is Gary_New Branch
+hello world！This is Gary_New Branch。
+show me the way
